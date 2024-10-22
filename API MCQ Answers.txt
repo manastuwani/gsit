@@ -1,0 +1,27 @@
+API MCQ Answers
+
+1. C
+2. D
+3. A
+4. D
+5. Option
+6. B
+7. D
+8. B
+9. Base URL/End Point
+10. B
+11. E
+12. Body/Payload
+13. A
+14. GET
+15. D
+16. A
+17. C
+18. B
+19. D
+20. C
+21. E
+22. B
+23. Patch
+24. A
+25. A
