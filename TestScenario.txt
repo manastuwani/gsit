@@ -1,0 +1,69 @@
+Pen:
+
+1. Verify the Material of the Pen
+2. Verify the Colour ink
+3. Verify the quality of ink
+4. Verify the quantity of ink
+5. Verify the tip of the pen (ball, gel)
+6. Verify the Condition of the pen
+7. Verify the refil of the pen
+8. Verify the weigth of the pen
+9. Verify the size of the pen
+10. Verify the brand of the pen
+11. Verify the smootness of the pen
+12. Verify the shape of the pen
+13. Verify the durability of the ink
+14. Verify the price of the pen
+15. Verify the cap of the pen
+
+Ceiling Fan:
+
+1. Verify the quality fan
+2. Verify the Condition of the Fan
+3. Verify the size of the fan
+4. Verify the brand/Company of the fan
+5. Verify the shape of the fan
+6. Verify the durability of the fan
+7. Verify the weigth of the fan
+8. Verify the price of the Fan
+9. Verify the Material of the Fan
+10.Verify the Colour of the Fan
+11. Verify the deesign of the fan
+12. Verify the balde of the fan
+14. Verify the speed of the fan
+15. Verify the on/off functionality of the fan
+16. Verify the blade alignment of the fan
+17. check the ratings of the fan
+18. Verify the waranty of the fan
+19. Verify the requirement of the voltage
+20. Verify the regulator switch board of the fan
+
+
+Assignment: Write down the Test Scenario on Chair
+
+Facebook: Email address and Password Test box
+
+1. Verify the availibility of the Email and password test box.
+2. Verify the Email and password test box is enabled or not
+3. Verify user user should be able to enter all the charater in Email address test box
+4. Verify the maximum length of character for Email address test box
+5. Verify the UI of Email and password text box
+6. Verify the Position of email and password text box
+7. Verify the copy past functionality 
+8. Verify the cursor should available in Email address text box
+9. Verify the Water mark dispaly in email and password text box
+10. Verify password should display in encrypted format
+
+
+
+Email ID Text box:
+
+Verify the availibility of email ID testbox
+Verify the position of email ID testbox
+Verify the email ID testbox accept all the characters
+Verify the email id filed With the Plus sign is considered a valid character.
+Verify email id text box should be enabled
+Verify the default text in email id text box
+
+
+
